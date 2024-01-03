@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "babylonjs": "^6.36.0",
+    "typescript": "^5.3.3"
+  }
+}
